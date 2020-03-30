@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ebd5c4c-57f1-4554-b8ca-7c30d0ebfab4" name="Default Changelist" comment="squash! second commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0ebd5c4c-57f1-4554-b8ca-7c30d0ebfab4" name="Default Changelist" comment="Ability to delete items (using promises)">
+      <change afterPath="$PROJECT_DIR$/plugins/confirm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/plugins/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/modal.js" afterDir="false" />
     </list>
+    <list id="b34c2de0-7602-42e5-aae4-af73b83f34cb" name="base" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -89,6 +95,7 @@
       <workItem from="1585428632515" duration="467000" />
       <workItem from="1585429131781" duration="249000" />
       <workItem from="1585469640447" duration="1609000" />
+      <workItem from="1585561354498" duration="11161000" />
     </task>
     <servers />
   </component>
@@ -100,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -108,7 +117,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="base" />
+    <MESSAGE value="base" />
+    <option name="LAST_COMMIT_MESSAGE" value="base" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585470794670">
@@ -119,10 +130,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="549" y="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1600.860@0.0.1600.860" timestamp="1585425336598" />
-    <state x="425" y="23" key="CommitChangelistDialog2" timestamp="1585471280042">
+    <state x="425" y="23" key="CommitChangelistDialog2" timestamp="1585593125369">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="425" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1585471280042" />
+    <state x="425" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1585593125369" />
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1585470991542">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
